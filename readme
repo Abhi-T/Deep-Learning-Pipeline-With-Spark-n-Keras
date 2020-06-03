@@ -1,0 +1,1 @@
+This is a sample code to show how we can utilize spark computing power to increase our neural network training time. The data used here is not huge so performance cannot be compared but this sample framework can be used in any large scale project. Libraries used here are keras, pyspark and Elephas
